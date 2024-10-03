@@ -8,3 +8,5 @@ Requires-Dist: numpy
 Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
+Requires-Dist: xgboost
+Requires-Dist: dill
